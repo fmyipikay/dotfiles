@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fmuoio@yipikay.fr
+	name = Franco Muoio
